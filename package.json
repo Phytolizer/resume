@@ -6,5 +6,5 @@
     "repository": "https://github.com/Phytolizer/resume",
     "author": "Kyle Coffey",
     "license": "MIT",
-    "private": true
+    "private": false
 }
