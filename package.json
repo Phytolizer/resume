@@ -1,0 +1,10 @@
+{
+    "name": "resume",
+    "version": "0.1.0",
+    "description": "My Resume",
+    "main": "index.js",
+    "repository": "https://github.com/Phytolizer/resume",
+    "author": "Kyle Coffey",
+    "license": "MIT",
+    "private": true
+}
