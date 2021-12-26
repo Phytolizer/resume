@@ -1,0 +1,19 @@
+Skills:
+    Language list
+    Other skills?
+Experience:
+    Company name
+    Job title
+    Start date
+    End date
+    Job description
+Education:
+    School name
+    Start date
+    End date
+    Field of study
+    Description
+Projects:
+    Project name
+    Description
+    Link
